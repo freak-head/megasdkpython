@@ -12,7 +12,7 @@ google-auth-oauthlib
 gunicorn
 html-telegraph-poster
 js2py
-git+https://github.com/jusidama18/lk21
+git+https://github.com/zevtyardt/lk21
 lxml
 Pillow
 psutil
