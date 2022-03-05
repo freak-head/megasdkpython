@@ -1,5 +1,5 @@
-FROM ubuntu:20.04
-#FROM arm64v8/ubuntu
+#FROM ubuntu:20.04
+FROM arm64v8/ubuntu:20.04
 
 ENV DEBIAN_FRONTEND="noninteractive"
 
